@@ -1,0 +1,12 @@
+.main-div {
+    background-color: #e9e7e7;
+    /* display: flex; */
+    width: 20%;
+    border-radius: 50px;
+    margin: 0 auto;
+    /* justify-content: space-evenly; */
+}
+
+.date {
+    font-size: 70px
+}

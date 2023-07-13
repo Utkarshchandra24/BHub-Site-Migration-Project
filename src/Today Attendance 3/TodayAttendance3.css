@@ -1,0 +1,38 @@
+.main-div {
+    background-color: whitesmoke;
+    width: 30%;
+    border-radius: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.sub-div1 {
+    text-align: left;
+    margin-left: 35px;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sub-div2 {
+     display: flex;
+    justify-content: space-around;
+ /*   border: 1px solid black; */
+}
+
+.sub-div21 {
+    /* display: flex; */
+    
+}
+
+.sub-div22 {
+    /* display: flex; */
+}
+
+h1 {
+    font-size: 70px;
+}
+
+/* h2 {
+    font-size: 60px;
+} */

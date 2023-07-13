@@ -1,0 +1,49 @@
+.main-div {
+    background-color: #e1b99c;
+    display: flex;
+    /* width: 80%; */
+    width: 50%;
+    border-radius: 50px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+.sub-div1,.sub-div2 {
+    /* border: 2px solid; */
+    padding: 10px;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.boypic {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+
+/*     
+    width: 450px;
+    height: 450px;
+    margin: 10px; */
+}
+
+.apple {
+     /* width: 225px; */
+     border-radius: 10px;
+     width: 180px;
+     height: 50px;
+     margin: 10px;
+}
+
+
+.google {
+    /* width: 225px; */
+    width: 180px;
+    height: 50px;
+    margin: 10px;
+}
+
+.sub-div1 {
+    display: flex;
+}

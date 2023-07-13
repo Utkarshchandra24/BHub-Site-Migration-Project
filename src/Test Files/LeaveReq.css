@@ -1,0 +1,58 @@
+.main-div {
+    border-radius: 50px;
+    background-color: lightblue;
+    width: 25%;
+    padding: 20px;
+}
+
+.Leave-type {
+    width: 100%;
+}
+
+.span-text {
+    font-size: 12px;
+    /* font-style: italic; */
+    color: gray;
+}
+
+.sub-div2 {
+    background-color: rgb(206, 203, 203);
+    width: 100%;
+    padding: 13px;
+}
+
+/* .input-text {
+    width: 100%;
+    height: 25%;
+} */
+
+.Leave-for {
+    width: 100%;
+}
+
+.sub-div3 {
+    justify-content: space-around;
+}
+
+.sub-div13 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn1 {
+    background-color: rgb(67, 138, 245);
+    width: 85px;
+    height: 20%;
+    border-radius: 50px;
+    color: whitesmoke;
+    padding: 7px;
+}
+
+.btn2 {
+    background-color: rgb(255, 194, 79);
+    width: 85px;
+    height: 20%;
+    border-radius: 50px;
+    color: whitesmoke;
+    padding: 7px;
+}

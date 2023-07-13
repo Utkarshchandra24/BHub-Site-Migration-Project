@@ -1,0 +1,43 @@
+.main-div {
+    background-color: rgb(255, 189, 158);
+    width: 30%;
+    border-radius: 50px;
+}
+
+.sub-div1 {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.sub-div2 {
+    display: flex;
+    padding: 17px;
+}
+
+span {
+    color: rgb(253, 127, 77) ;
+}
+
+span:hover {
+    color: black;
+}
+
+.hr-line {
+    color: rgb(250, 79, 0);
+}
+
+.hrs2 {
+    font-size: 60px;
+}
+
+img {
+    /* height: 300px;
+    width: 300px; */
+    height: 400px;
+    width: 315px;
+}
+
+.p-text {
+    color:gray;
+}

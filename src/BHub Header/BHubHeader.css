@@ -1,0 +1,24 @@
+.main-div {
+    background-color: rgb(85, 201, 247);
+    border-radius: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mid-div {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 20%;
+}
+
+
+img {
+    padding: 10px;
+}
+
+.user-img {
+    height: 50px;
+    border-radius: 50%;
+}

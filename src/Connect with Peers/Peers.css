@@ -1,0 +1,47 @@
+.main-div {
+    background-color: #f8c7a3;
+    display: flex;
+    width: 80%;
+    border-radius: 50px;
+    margin: 0 auto;
+    height: 240px;
+    /* justify-content: space-evenly; */
+}
+
+.left-div {
+    width: 90%;
+}
+
+.left-top {
+    display: flex;
+    padding: 15px;
+}
+
+.left-bottom {
+    display: flex;
+}
+
+.user {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+}
+
+.btn {
+    background-color: grey;
+    width: 85px;
+    height: 20%;
+    border-radius: 50px;
+    color: whitesmoke;
+    padding: 7px;
+}
+
+.right-div {
+    align-items: flex-end ;
+}
+
+.peers-pic {
+    height: 100%;
+    align-items: flex-end;
+}

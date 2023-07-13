@@ -1,0 +1,37 @@
+.main-div {
+    background-color: whitesmoke;
+    width: 30%;
+    border-radius: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.sub-div1 {
+    text-align: left;
+    margin-left: 35px;
+    padding-top: 25px;
+}
+
+.sub-div2 {
+    display: flex;
+   justify-content: space-around;
+ /*   border: 1px solid black; */
+ }
+
+h1 {
+    font-size: 70px;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.dots-container {
+    display: flex;
+    justify-content: center;
+}

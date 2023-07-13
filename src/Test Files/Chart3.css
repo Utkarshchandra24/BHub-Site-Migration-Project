@@ -1,0 +1,19 @@
+.main-div {
+    background-color: rgb(87, 255, 143);
+}
+
+.sub-div {
+    background-color: aliceblue;
+    display: flex;
+}
+
+.sub-div1 {
+    display: flex;
+    background-color: bisque;
+    justify-content: space-between;
+}
+
+.sub-div2 {
+    display: flex;
+    justify-content: space-between;
+}

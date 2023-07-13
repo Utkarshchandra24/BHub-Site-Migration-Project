@@ -1,0 +1,41 @@
+.main-div {
+    background-color: #76d3f8;
+    width: 75%;
+    border-radius: 50px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+.sub-div1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.sub-div11 {
+    display: flex;
+    justify-content: end;
+}
+
+p {
+    color: rgb(82, 82, 82);
+}
+
+.phead:hover {
+    color: black;
+}
+
+.sub-div12 {
+    justify-content: end;
+}
+
+.sub-div2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-div3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 66px;
+}

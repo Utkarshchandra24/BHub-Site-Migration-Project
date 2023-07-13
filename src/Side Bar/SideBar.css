@@ -1,0 +1,61 @@
+.main-div {
+    background-color: rgb(60, 161, 255);
+    width: 155px;
+
+}
+
+.user-logo {
+    height: 30px;
+    width: 30px;
+}
+
+.user-logo:hover {
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.user-piggybank {
+    height: 50px;
+    width: 50px;
+}
+
+.user-piggybank:hover {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}
+
+.user-mebbes {
+    height: 30px;
+    width: 30px;
+}
+
+.user-mebbes:hover {
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.user-hr {
+    height: 30px;
+    width: 30px;
+}
+
+.user-hr:hover {
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.user-communication {
+    height: 30px;
+    width: 30px;
+}
+
+
+.user-communication:hover {
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
